@@ -4,6 +4,12 @@ This is my (@sqs) personal color theme for the [Visual Studio Code](https://code
 
 [GitHub repository](https://github.com/sqs/vscode-sqs-theme)
 
+## Usage
+
+In VS Code, run `ext install sqs.vscode-sqs-theme`.
+
+On [Sourcegraph](https://sourcegraph.com), press Cmd+P (Mac) or F1 (Windows/Linux) and select `Preferences: Color Theme` and then "SQS Dark".
+
 ## Development
 
 To install it manually, clone this repository and run:
