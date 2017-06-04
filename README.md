@@ -12,7 +12,7 @@ To install it manually, clone this repository and run:
 ./dev.sh attach
 ```
 
-Then reload VS Code and you should see the SQS Theme in the extensions list. You can now select the "SQS Dark" theme in the list that appears when you run the `Preferences: Color Theme` action.
+Then reload VS Code and you should see the SQS Dark theme in the extensions list. You can now select the "SQS Dark" theme in the list that appears when you run the `Preferences: Color Theme` action.
 
 ## Screenshot
 
