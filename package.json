@@ -21,7 +21,7 @@
     "themes": [
       {
         "label": "SQS Dark",
-        "uiTheme": "vs-dark",
+        "uiTheme": "hc-black",
         "path": "./sqs-dark.json"
       }
     ]
