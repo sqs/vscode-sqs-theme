@@ -19,11 +19,10 @@
 		"editorHoverWidget.border": "#3377ff",
 		"editor.selectionHighlightBackground": "#ffffff29",
 		"editor.selectionBackground": "#2222dd",
+		"editor.selectionForeground": "#ffffff",
 		"panel.border": "#333333",
 		"panel.background": "#000000",
 		"input.background": "#000000",
-		"notification.background": "#000000",
-		"editorGroup.background": "#000000",
 		"editorGroupHeader.tabsBackground": "#000000",
 		"editor.lineHighlightBackground": "#171717",
 		"editorGroup.border": "#333333",
@@ -42,13 +41,13 @@
 		"sideBarSectionHeader.background": "#333333",
 		"statusBar.debuggingBackground": "#FFFF0044",
 		"statusBar.noFolderBackground": "#000000",
-		"contrastBorder": "#333333"
+		"contrastBorder": "#333333",
+		"quickInputList.focusBackground": "#2222dd"
 	},
 	"tokenColors": [
 		{
 			"settings": {
 				"foreground": "#87cefaff",
-				"background": "#000000ff"
 			}
 		},
 		{

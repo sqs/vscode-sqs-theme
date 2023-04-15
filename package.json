@@ -2,7 +2,7 @@
   "name": "vscode-sqs-theme",
   "displayName": "SQS Theme",
   "description": "SQS theme for Visual Studio Code",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "sqs",
   "bugs": {
     "url": "https://github.com/sqs/vscode-sqs-theme/issues"
