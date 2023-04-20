@@ -2,7 +2,7 @@
   "name": "vscode-sqs-theme",
   "displayName": "SQS Theme",
   "description": "SQS theme for Visual Studio Code",
-  "version": "0.0.3",
+  "version": "0.0.8",
   "publisher": "sqs",
   "bugs": {
     "url": "https://github.com/sqs/vscode-sqs-theme/issues"
@@ -21,7 +21,7 @@
     "themes": [
       {
         "label": "SQS Dark",
-        "uiTheme": "hc-black",
+        "uiTheme": "vs-dark",
         "path": "./sqs-dark.json"
       }
     ]

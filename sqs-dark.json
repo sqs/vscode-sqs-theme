@@ -42,7 +42,12 @@
 		"statusBar.debuggingBackground": "#FFFF0044",
 		"statusBar.noFolderBackground": "#000000",
 		"contrastBorder": "#333333",
-		"quickInputList.focusBackground": "#2222dd"
+		"quickInputList.focusBackground": "#2222dd",
+		"peekViewResult.selectionBackground": "#2222dd",
+		"editorError.border": "#00000000",
+		"editorWarning.border": "#00000000",
+		"editorInfo.border": "#00000000",
+		"editorHint.border": "#00000000",
 	},
 	"tokenColors": [
 		{
