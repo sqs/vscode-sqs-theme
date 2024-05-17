@@ -14,6 +14,8 @@
 		"list.inactiveSelectionBackground": "#333333",
 		"list.focusBackground": "#2222dd",
 		"dropdown.background": "#222222",
+	    "dropdown.border": "#444444",
+	    "widget.border": "#333333",
 		"list.hoverBackground": "#2222dd",
 		"editorHoverWidget.background": "#111111",
 		"editorHoverWidget.border": "#3377ff",
